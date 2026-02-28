@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Тимур  Гареев](https://up.htmlacademy.ru/htmlcss-individual/2/user/2700260).
-* Наставник: `Неизвестно`.
+* Наставник: [Малик Киров](https://htmlacademy.ru/profile/id17217).
 
 ---
 
